@@ -6,14 +6,18 @@
 //
 
 import UIKit
+import MaterialComponents
+import MaterialComponents.MaterialAppBar
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var NameInput: MDCTextField!
+    var name: MDCTextInputControllerOutlined?
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        name = MDCTextInputControllerOutlined(textInput: NameInput)
     }
-
-
 }
 

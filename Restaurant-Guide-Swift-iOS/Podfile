@@ -18,5 +18,6 @@ target 'Restaurant-Guide-Swift-iOS' do
   pod 'MaterialComponents/Buttons'
   pod 'MaterialComponents/Chips'
   pod 'MaterialComponents/NavigationDrawer'
+  pod 'MaterialComponents/AppBar'
 
 end

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -13,6 +13,9 @@
 		A6C7C557260BF53400BCE49F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C555260BF53400BCE49F /* Main.storyboard */; };
 		A6C7C559260BF53700BCE49F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C558260BF53700BCE49F /* Assets.xcassets */; };
 		A6C7C55C260BF53700BCE49F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C55A260BF53700BCE49F /* LaunchScreen.storyboard */; };
+		A6C7C578260D1E0200BCE49F /* restoguidelogo.png in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C577260D1E0200BCE49F /* restoguidelogo.png */; };
+		A6C7C57D260D224000BCE49F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C55D260BF53700BCE49F /* Info.plist */; };
+		A6C7C582260D25A200BCE49F /* Vidaloka-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C581260D25A200BCE49F /* Vidaloka-Regular.ttf */; };
 		DC1ADFC8F90A773DD7859E0D /* Pods_Restaurant_Guide_Swift_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4C898654175EF9AEC24B7E0 /* Pods_Restaurant_Guide_Swift_iOS.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +30,8 @@
 		A6C7C558260BF53700BCE49F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6C7C55B260BF53700BCE49F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6C7C55D260BF53700BCE49F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6C7C577260D1E0200BCE49F /* restoguidelogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = restoguidelogo.png; path = ../../../../../../../Users/jungan/Downloads/restoguidelogo.png; sourceTree = "<group>"; };
+		A6C7C581260D25A200BCE49F /* Vidaloka-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Vidaloka-Regular.ttf"; sourceTree = "<group>"; };
 		F4C898654175EF9AEC24B7E0 /* Pods_Restaurant_Guide_Swift_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Restaurant_Guide_Swift_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -63,6 +68,7 @@
 		A6C7C54E260BF53300BCE49F /* Restaurant-Guide-Swift-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				A6C7C577260D1E0200BCE49F /* restoguidelogo.png */,
 				A6C7C54F260BF53400BCE49F /* AppDelegate.swift */,
 				A6C7C551260BF53400BCE49F /* SceneDelegate.swift */,
 				A6C7C553260BF53400BCE49F /* ViewController.swift */,
@@ -70,8 +76,17 @@
 				A6C7C558260BF53700BCE49F /* Assets.xcassets */,
 				A6C7C55A260BF53700BCE49F /* LaunchScreen.storyboard */,
 				A6C7C55D260BF53700BCE49F /* Info.plist */,
+				A6C7C580260D254200BCE49F /* fonts */,
 			);
 			path = "Restaurant-Guide-Swift-iOS";
+			sourceTree = "<group>";
+		};
+		A6C7C580260D254200BCE49F /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				A6C7C581260D25A200BCE49F /* Vidaloka-Regular.ttf */,
+			);
+			path = fonts;
 			sourceTree = "<group>";
 		};
 		CCB59D96408F0389C0D39D49 /* Frameworks */ = {
@@ -88,7 +103,6 @@
 				736B12D0AFBA10322F0B86F9 /* Pods-Restaurant-Guide-Swift-iOS.debug.xcconfig */,
 				273527011E7BA0F703DDD9A4 /* Pods-Restaurant-Guide-Swift-iOS.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -151,7 +165,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6C7C582260D25A200BCE49F /* Vidaloka-Regular.ttf in Resources */,
 				A6C7C55C260BF53700BCE49F /* LaunchScreen.storyboard in Resources */,
+				A6C7C57D260D224000BCE49F /* Info.plist in Resources */,
+				A6C7C578260D1E0200BCE49F /* restoguidelogo.png in Resources */,
 				A6C7C559260BF53700BCE49F /* Assets.xcassets in Resources */,
 				A6C7C557260BF53400BCE49F /* Main.storyboard in Resources */,
 			);
