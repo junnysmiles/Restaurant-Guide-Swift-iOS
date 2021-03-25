@@ -103,6 +103,7 @@
 				A6C7C548260BF53300BCE49F /* Sources */,
 				A6C7C549260BF53300BCE49F /* Frameworks */,
 				A6C7C54A260BF53300BCE49F /* Resources */,
+				CFC856CECE84C10158725554 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -159,6 +160,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		CFC856CECE84C10158725554 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Restaurant-Guide-Swift-iOS/Pods-Restaurant-Guide-Swift-iOS-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Restaurant-Guide-Swift-iOS/Pods-Restaurant-Guide-Swift-iOS-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Restaurant-Guide-Swift-iOS/Pods-Restaurant-Guide-Swift-iOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		D80FF0799CB1BACB1CC3E46E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

@@ -8,5 +8,15 @@ target 'Restaurant-Guide-Swift-iOS' do
   use_frameworks!
 
   # Pods for Restaurant-Guide-Swift-iOS
+  # Material Design Components
+  pod 'MaterialComponents/BottomNavigation'
+  pod 'MaterialComponents/Banner'
+  pod 'MaterialComponents/TextControls+FilledTextAreas'
+  pod 'MaterialComponents/TextControls+FilledTextFields'
+  pod 'MaterialComponents/TextControls+OutlinedTextAreas'
+  pod 'MaterialComponents/TextControls+OutlinedTextFields'
+  pod 'MaterialComponents/Buttons'
+  pod 'MaterialComponents/Chips'
+  pod 'MaterialComponents/NavigationDrawer'
 
 end
