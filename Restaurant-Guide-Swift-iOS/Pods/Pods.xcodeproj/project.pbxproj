@@ -636,7 +636,7 @@
 		58021FEF5198EB2E235492525359FD6A /* MDCTextControlVerticalPositioningReferenceOutlined.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCTextControlVerticalPositioningReferenceOutlined.h; path = components/private/TextControlsPrivate/src/OutlinedStyle/MDCTextControlVerticalPositioningReferenceOutlined.h; sourceTree = "<group>"; };
 		58B053007724F98DBF712802D5A23A1A /* MDCAppBarButtonBarBuilder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCAppBarButtonBarBuilder.m; path = components/ButtonBar/src/private/MDCAppBarButtonBarBuilder.m; sourceTree = "<group>"; };
 		5961C5991B62247B9DC46328BF9B5698 /* Pods-Restaurant-Guide-Swift-iOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Restaurant-Guide-Swift-iOS-acknowledgements.plist"; sourceTree = "<group>"; };
-		59F9F266A0A4F6C66AF821EA6030F4A8 /* Pods_Restaurant_Guide_Swift_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Restaurant_Guide_Swift_iOS.framework; path = "Pods-Restaurant-Guide-Swift-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59F9F266A0A4F6C66AF821EA6030F4A8 /* Pods_Restaurant_Guide_Swift_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Restaurant_Guide_Swift_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A39CD7E54BE196D5C6DB64EF70968DE /* UIColor+MaterialDynamic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+MaterialDynamic.h"; path = "components/private/Color/src/UIColor+MaterialDynamic.h"; sourceTree = "<group>"; };
 		5A4AEB1614F730F54D665FE16169F90C /* MDCTextControlHorizontalPositioning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCTextControlHorizontalPositioning.h; path = components/private/TextControlsPrivate/src/Shared/MDCTextControlHorizontalPositioning.h; sourceTree = "<group>"; };
 		5A7F19647399A4E4D2643B8DB21F7A91 /* MDCStatusBarShifter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCStatusBarShifter.h; path = components/FlexibleHeader/src/private/MDCStatusBarShifter.h; sourceTree = "<group>"; };
@@ -718,7 +718,7 @@
 		8FA047244DED8744FE11E913C14A03DA /* MDCTextInputControllerUnderline.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCTextInputControllerUnderline.h; path = components/TextFields/src/MDCTextInputControllerUnderline.h; sourceTree = "<group>"; };
 		8FE3DC11DFA78CB90DAD407D0EDAC4E0 /* MDFImageCalculations.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDFImageCalculations.h; path = src/private/MDFImageCalculations.h; sourceTree = "<group>"; };
 		90470DBB920E67F128558624A310B605 /* MDCLegacyInkLayer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCLegacyInkLayer.h; path = components/Ink/src/private/MDCLegacyInkLayer.h; sourceTree = "<group>"; };
-		926DA190C7D642F031F184C79D52F1F7 /* MaterialIcons_ic_arrow_back.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = MaterialIcons_ic_arrow_back.bundle; path = "MaterialComponents-MaterialIcons_ic_arrow_back.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		926DA190C7D642F031F184C79D52F1F7 /* MaterialIcons_ic_arrow_back.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MaterialIcons_ic_arrow_back.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		93CA3C427244FA047B5C08C5A913E996 /* MDCShadowElevations.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCShadowElevations.h; path = components/ShadowElevations/src/MDCShadowElevations.h; sourceTree = "<group>"; };
 		943639F2B9078E5946FE79CF3BCDF5B0 /* MDCButtonBar+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MDCButtonBar+Private.h"; path = "components/ButtonBar/src/private/MDCButtonBar+Private.h"; sourceTree = "<group>"; };
 		954ECE8DE51807791749AEDBCD3C2EA8 /* MDCChipField.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCChipField.m; path = components/Chips/src/MDCChipField.m; sourceTree = "<group>"; };
@@ -728,7 +728,7 @@
 		984947605E4466F8DB92D50B1D00AF91 /* MDCBottomDrawerShadowedView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCBottomDrawerShadowedView.h; path = components/NavigationDrawer/src/private/MDCBottomDrawerShadowedView.h; sourceTree = "<group>"; };
 		99A4AD95A3BAC14094AAE88743203B71 /* MDCCornerTreatment+CornerTypeInitalizer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MDCCornerTreatment+CornerTypeInitalizer.h"; path = "components/ShapeLibrary/src/MDCCornerTreatment+CornerTypeInitalizer.h"; sourceTree = "<group>"; };
 		99B76BB3BE5DF3B8E1436B4A7797CAB6 /* MaterialTextControlsPrivate+TextFields.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MaterialTextControlsPrivate+TextFields.h"; path = "components/private/TextControlsPrivate/src/TextFields/MaterialTextControlsPrivate+TextFields.h"; sourceTree = "<group>"; };
-		9A2AC0B8BAC6EF061EBC28825653DF99 /* MDFInternationalization.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MDFInternationalization.framework; path = MDFInternationalization.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A2AC0B8BAC6EF061EBC28825653DF99 /* MDFInternationalization.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MDFInternationalization.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A36C044F8C2BFF4F583D725C6D530C4 /* MDCRippleLayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCRippleLayer.m; path = components/Ripple/src/private/MDCRippleLayer.m; sourceTree = "<group>"; };
 		9A6D40FA7897B81BEC2FFDE64DA16606 /* MDCBaseTextFieldDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCBaseTextFieldDelegate.h; path = components/TextControls/src/BaseTextFields/MDCBaseTextFieldDelegate.h; sourceTree = "<group>"; };
 		9A889EF9419AE7CDFC294916EE2E091F /* MDCTextField.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCTextField.m; path = components/TextFields/src/MDCTextField.m; sourceTree = "<group>"; };
@@ -736,7 +736,7 @@
 		9C68E1E4C5570ECDDD9A2C6D1168D600 /* MDCBottomNavigationItemView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCBottomNavigationItemView.m; path = components/BottomNavigation/src/private/MDCBottomNavigationItemView.m; sourceTree = "<group>"; };
 		9CC60B13F55A626608B04840A1602B3C /* MDCFlexibleHeaderMinMaxHeightDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCFlexibleHeaderMinMaxHeightDelegate.h; path = components/FlexibleHeader/src/private/MDCFlexibleHeaderMinMaxHeightDelegate.h; sourceTree = "<group>"; };
 		9D287D9729FD84F1FD12C0C509224BE4 /* MDCInkView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCInkView.m; path = components/Ink/src/MDCInkView.m; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D9A8B8CE167B9667C4E94855B873066 /* MDCAppBarViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCAppBarViewController.m; path = components/AppBar/src/MDCAppBarViewController.m; sourceTree = "<group>"; };
 		9DC1D0B20FE2B66A3CBD02083EB60CD4 /* MaterialRipple.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MaterialRipple.h; path = components/Ripple/src/MaterialRipple.h; sourceTree = "<group>"; };
 		9DD3045FE2431C1B13965FC3AD0CEE94 /* Pods-Restaurant-Guide-Swift-iOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Restaurant-Guide-Swift-iOS-Info.plist"; sourceTree = "<group>"; };
@@ -748,7 +748,7 @@
 		A04E4A086292D6983284733231117D7A /* MDFInternationalization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDFInternationalization.h; path = Sources/MDFInternationalization.h; sourceTree = "<group>"; };
 		A0A3301F83F78FA1567C63F86F9410A2 /* MDCFlexibleHeaderViewDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCFlexibleHeaderViewDelegate.h; path = components/FlexibleHeader/src/MDCFlexibleHeaderViewDelegate.h; sourceTree = "<group>"; };
 		A18704E686526D66E356E3B6DD40B36A /* MaterialButtonBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MaterialButtonBar.h; path = components/ButtonBar/src/MaterialButtonBar.h; sourceTree = "<group>"; };
-		A34157B3708EDB7D17422B3D92F591D2 /* MaterialComponents.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MaterialComponents.framework; path = MaterialComponents.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A34157B3708EDB7D17422B3D92F591D2 /* MaterialComponents.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MaterialComponents.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3482B6BB4DB286540C4979C00D7944F /* MDCAppBarContainerViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCAppBarContainerViewController.m; path = components/AppBar/src/MDCAppBarContainerViewController.m; sourceTree = "<group>"; };
 		A471D592F5126B726E945CA27D102400 /* MDCTextControlVerticalPositioningReferenceOutlined.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCTextControlVerticalPositioningReferenceOutlined.m; path = components/private/TextControlsPrivate/src/OutlinedStyle/MDCTextControlVerticalPositioningReferenceOutlined.m; sourceTree = "<group>"; };
 		A64745D6E0C5B5482F98D3C935C53A5A /* MDCBottomDrawerTransitionController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCBottomDrawerTransitionController.m; path = components/NavigationDrawer/src/MDCBottomDrawerTransitionController.m; sourceTree = "<group>"; };
@@ -899,7 +899,7 @@
 		F936D0FEA60E2302ADFA4A1174B70093 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		FA93C1CA63B1D81939D6F9FB2281E01C /* MDCChipView+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MDCChipView+Private.h"; path = "components/Chips/src/private/MDCChipView+Private.h"; sourceTree = "<group>"; };
 		FB06B5D5F89ABEDE503DB7F72D397EA4 /* MDCBannerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCBannerView.m; path = components/Banner/src/MDCBannerView.m; sourceTree = "<group>"; };
-		FB8220FA4D9117310AEFC629A6EE4A08 /* MDFTextAccessibility.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MDFTextAccessibility.framework; path = MDFTextAccessibility.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB8220FA4D9117310AEFC629A6EE4A08 /* MDFTextAccessibility.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MDFTextAccessibility.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2A895D14868FEE6B9922E0E2B9B38D /* MDCPillShapeGenerator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCPillShapeGenerator.h; path = components/ShapeLibrary/src/MDCPillShapeGenerator.h; sourceTree = "<group>"; };
 		FC9DC976092CF873D97210222FC7D58E /* MDCBottomDrawerContainerViewControllerDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCBottomDrawerContainerViewControllerDelegate.h; path = components/NavigationDrawer/src/private/MDCBottomDrawerContainerViewControllerDelegate.h; sourceTree = "<group>"; };
 		FD5B467058D472764B5097450782B9E6 /* MDCInkLayer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCInkLayer.m; path = components/Ink/src/private/MDCInkLayer.m; sourceTree = "<group>"; };
@@ -1214,7 +1214,6 @@
 				72100076115F5B6D5C06C833C62F93A9 /* UIView+MaterialRTL.m */,
 				462353AF37A086898B4704E3F2B3C4A8 /* Support Files */,
 			);
-			name = MDFInternationalization;
 			path = MDFInternationalization;
 			sourceTree = "<group>";
 		};
@@ -1429,7 +1428,6 @@
 				8EABCA92254EAC106A8C89A4F76F0DFA /* NSArray+MDFUtils.m */,
 				07D7284B0FFED16845364407A74E33D6 /* Support Files */,
 			);
-			name = MDFTextAccessibility;
 			path = MDFTextAccessibility;
 			sourceTree = "<group>";
 		};
@@ -1576,7 +1574,6 @@
 				065B3B94B779883BA8EA3E7626C73EA1 /* TextFields */,
 				0C4EED355F9AE6AA876FB93CF2FC1352 /* Typography */,
 			);
-			name = MaterialComponents;
 			path = MaterialComponents;
 			sourceTree = "<group>";
 		};
@@ -2256,7 +2253,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastUpgradeCheck = 1230;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 9.3";
@@ -2548,7 +2545,7 @@
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MaterialComponents";
 				IBSC_MODULE = MaterialComponents;
 				INFOPLIST_FILE = "Target Support Files/MaterialComponents/ResourceBundle-MaterialIcons_ic_arrow_back-MaterialComponents-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = MaterialIcons_ic_arrow_back;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2610,7 +2607,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -2638,7 +2635,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Restaurant-Guide-Swift-iOS/Pods-Restaurant-Guide-Swift-iOS-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2666,7 +2663,7 @@
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MaterialComponents";
 				IBSC_MODULE = MaterialComponents;
 				INFOPLIST_FILE = "Target Support Files/MaterialComponents/ResourceBundle-MaterialIcons_ic_arrow_back-MaterialComponents-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = MaterialIcons_ic_arrow_back;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2690,7 +2687,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MDFInternationalization/MDFInternationalization-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MDFInternationalization/MDFInternationalization-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2724,7 +2721,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MDFInternationalization/MDFInternationalization-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MDFInternationalization/MDFInternationalization-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2759,7 +2756,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MaterialComponents/MaterialComponents-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MaterialComponents/MaterialComponents-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2794,7 +2791,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MaterialComponents/MaterialComponents-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MaterialComponents/MaterialComponents-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2828,7 +2825,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MDFTextAccessibility/MDFTextAccessibility-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MDFTextAccessibility/MDFTextAccessibility-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2898,7 +2895,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2925,7 +2922,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/MDFTextAccessibility/MDFTextAccessibility-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/MDFTextAccessibility/MDFTextAccessibility-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2959,7 +2956,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-Restaurant-Guide-Swift-iOS/Pods-Restaurant-Guide-Swift-iOS-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
