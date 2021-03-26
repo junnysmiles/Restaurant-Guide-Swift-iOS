@@ -16,6 +16,7 @@
 		A6C7C578260D1E0200BCE49F /* restoguidelogo.png in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C577260D1E0200BCE49F /* restoguidelogo.png */; };
 		A6C7C57D260D224000BCE49F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C55D260BF53700BCE49F /* Info.plist */; };
 		A6C7C582260D25A200BCE49F /* Vidaloka-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A6C7C581260D25A200BCE49F /* Vidaloka-Regular.ttf */; };
+		A6C7C58A260D7ECA00BCE49F /* FavouriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C7C589260D7EC900BCE49F /* FavouriteViewController.swift */; };
 		DC1ADFC8F90A773DD7859E0D /* Pods_Restaurant_Guide_Swift_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4C898654175EF9AEC24B7E0 /* Pods_Restaurant_Guide_Swift_iOS.framework */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		A6C7C55D260BF53700BCE49F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6C7C577260D1E0200BCE49F /* restoguidelogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = restoguidelogo.png; path = ../../../../../../../Users/jungan/Downloads/restoguidelogo.png; sourceTree = "<group>"; };
 		A6C7C581260D25A200BCE49F /* Vidaloka-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Vidaloka-Regular.ttf"; sourceTree = "<group>"; };
+		A6C7C589260D7EC900BCE49F /* FavouriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteViewController.swift; sourceTree = "<group>"; };
 		F4C898654175EF9AEC24B7E0 /* Pods_Restaurant_Guide_Swift_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Restaurant_Guide_Swift_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -72,6 +74,7 @@
 				A6C7C54F260BF53400BCE49F /* AppDelegate.swift */,
 				A6C7C551260BF53400BCE49F /* SceneDelegate.swift */,
 				A6C7C553260BF53400BCE49F /* ViewController.swift */,
+				A6C7C589260D7EC900BCE49F /* FavouriteViewController.swift */,
 				A6C7C555260BF53400BCE49F /* Main.storyboard */,
 				A6C7C558260BF53700BCE49F /* Assets.xcassets */,
 				A6C7C55A260BF53700BCE49F /* LaunchScreen.storyboard */,
@@ -223,6 +226,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6C7C58A260D7ECA00BCE49F /* FavouriteViewController.swift in Sources */,
 				A6C7C554260BF53400BCE49F /* ViewController.swift in Sources */,
 				A6C7C550260BF53400BCE49F /* AppDelegate.swift in Sources */,
 				A6C7C552260BF53400BCE49F /* SceneDelegate.swift in Sources */,
