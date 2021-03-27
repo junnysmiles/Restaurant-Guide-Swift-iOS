@@ -106,32 +106,10 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="Ydz-lM-UF2"/>
-                    <connections>
-                        <outlet property="about" destination="IhG-sP-UK4" id="xfh-Ew-5Jb"/>
-                        <outlet property="add" destination="b8l-Px-dDV" id="bi2-eH-0m2"/>
-                        <outlet property="favourites" destination="oRC-Y8-DFw" id="kUO-xk-DkK"/>
-                        <outlet property="location" destination="u8z-Wc-dtZ" id="5JF-uZ-vdE"/>
-                        <outlet property="navBar" destination="ZCN-25-EV7" id="SD5-q5-1f4"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bwR-cH-ldt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="799" y="504"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="hCR-4T-RG4">
-            <objects>
-                <viewController id="p4c-8K-htM" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="GJ1-r8-r4i">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="zNS-OI-IGP"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="YsJ-be-Stc" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1588" y="504"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="DBO-ge-Yfr">

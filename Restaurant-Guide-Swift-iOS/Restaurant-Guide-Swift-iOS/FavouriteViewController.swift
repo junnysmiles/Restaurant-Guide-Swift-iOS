@@ -12,27 +12,17 @@ import MaterialComponents.MaterialBottomNavigation
 
 class FavouriteViewController: UIViewController {
     
-    @IBOutlet weak var navBar: MDCBottomNavigationBar!
-    
-    @IBOutlet weak var favourites: UITabBarItem!
-    
-    @IBOutlet weak var add: UITabBarItem!
-    
-    @IBOutlet weak var location: UITabBarItem!
-    
-    @IBOutlet weak var about: UITabBarItem!
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.addSubview(navBar)
+        //view.addSubview(navBar)
         //navBar.titleVisibility = MDCBottomNavigationBarTitleVisibilitySelected
         //navBar.alignment = MDCBottomNavigationBarAlignmentJustifiedAdjacentTiles
         
-        favourites = UITabBarItem(
-            title: "Favourites",
-            image: UIImage(named:"ic_favourite"),
-            tag: 0)
+        //favourites = UITabBarItem(
+            //title: "Favourites",
+            //image: UIImage(named:"ic_favourite"),
+            //tag: 0)
     }
 }
 
